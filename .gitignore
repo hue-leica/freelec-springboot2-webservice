@@ -2,7 +2,6 @@
  .gradle
  .idea
 application-oauth.properties
-application-real.properties
 application-real-db.properties
 
 # Created by https://www.gitignore.io/api/java,gradle,intellij
